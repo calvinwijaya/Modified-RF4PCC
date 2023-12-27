@@ -1,5 +1,5 @@
-# Modified-RF4CC
-This repository is modified version of [RF4CC](https://github.com/3DOM-FBK/RF4PCC), utilize Scikit-Learn libraries for supervised point cloud classification.
+# Modified-RF4PCC
+This repository is modified version of [RF4PCC](https://github.com/3DOM-FBK/RF4PCC), utilize Scikit-Learn libraries for supervised point cloud classification.
 
 ## Dependencies
 - Python3
