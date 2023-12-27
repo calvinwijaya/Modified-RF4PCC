@@ -41,6 +41,9 @@ To extend the classification to the test dataset at a command prompt run:
 
 This should result in the creation of your test file classified (the predicted classes are saved as last column after the features)
 
+## Update: December 2023
+If you want to try the code first, it now available at [Google Colab](https://colab.research.google.com/drive/1v05g7_nxv4-oVU9rBS9Vw8II57s_DBQx?usp=sharing)
+
 ## Citation
 > Grilli, E.; Remondino, F. Machine Learning Generalisation across Different 3D Architectural Heritage. ISPRS Int. J. Geo-Inf. 2020, 9, 379.
 
